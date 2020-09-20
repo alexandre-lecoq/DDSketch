@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistributedDistributionSketch", "DistributedDistributionSketch\DistributedDistributionSketch.csproj", "{A3554DD7-94E0-499F-8151-6DA45D04E8B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistributedDistributionSketch.Tests", "DistributedDistributionSketch.Tests\DistributedDistributionSketch.Tests.csproj", "{D6F2ECAC-92C7-408B-9B3C-DCD98ED23CC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3554DD7-94E0-499F-8151-6DA45D04E8B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3554DD7-94E0-499F-8151-6DA45D04E8B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3554DD7-94E0-499F-8151-6DA45D04E8B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3554DD7-94E0-499F-8151-6DA45D04E8B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6F2ECAC-92C7-408B-9B3C-DCD98ED23CC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6F2ECAC-92C7-408B-9B3C-DCD98ED23CC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6F2ECAC-92C7-408B-9B3C-DCD98ED23CC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6F2ECAC-92C7-408B-9B3C-DCD98ED23CC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDEFB5CC-C2B5-4743-BD38-2F17FE1D039F}
+	EndGlobalSection
+EndGlobal
